@@ -64,3 +64,127 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+
+
+
+
+
+.logo {
+display:inline-block;
+margin-left: 1400px;
+margin-bottom: 20px;
+
+}
+
+
+.navigation {
+color: grey;
+margin-top: 20px;
+margin-left: 60px;
+margin-right: 0px;
+display: inline-block;
+word-spacing: 80px;
+
+}
+
+.image1 {
+display:inline-block;
+margin:-35% 0% 0% 75%;
+
+
+}
+
+.topContent {
+display: inline-block;
+border-top:1px solid black;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+#features {
+	
+margin-right: 900px;
+display: inline-block;
+margin-left: 50px;
+margin-top: 10%;
+}
+
+#about {
+	margin-left: 50%;
+	display: inline-block;
+	margin-top: -3.5%;
+	margin-right: 5%;
+	margin-bottom: 3%;
+}
+
+.middle-img {
+	display: inline-block;
+	margin-left: 50px;
+	width:1500px;
+}
+
+
+
+#Innovation {
+	font-family: 'Bangers';
+	font-size: 75px;
+	display: inline-block;
+	margin-left: 150px;
+	margin-top:100px;
+}
+
+#indent {
+	margin-left: 65px;
+	display: inline-block
+	margin-top: 100px;
+	font-size: 75px;
+	margin-left: 260px;
+}
+
+#demand {
+	font-family: 'Bangers';
+	font-size: 75px;
+	display: inline-block;
+	margin-left: 190px;
+}
+
+#GetStarted {
+	display:inline-block;
+	border: solid;
+	border-width: 1px;
+	padding: 10px 40px;
+	font-family: 'Titillium Web'
+	margin-top: 500px;
+	margin-left: 200px;
+	
+}
+
+.bottomContent div {
+	display: inline-block;
+	width: 27.8%;
+	margin-left: 50px;
+	margin-right: 20px;
+	padding: 2%;
+} 
+
+.contact {
+	display: inline-block;
+	border-top:1px solid black;
+	width: 100%;
+	text-align: left;
+	margin-left: 50px;
+	margin-right: 80px;
+	padding-top: 30px;
+}
+
+
+.footer {
+	
+	text-align: center;
+	}
+
+.number: {
+	padding: 50%;
+}
